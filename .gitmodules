@@ -1,0 +1,3 @@
+[submodule "Libs/Net"]
+	path = Libs/Net
+	url = https://github.com/Bousk/Net
